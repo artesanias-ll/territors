@@ -1,0 +1,1 @@
+var json_FAMMORALES_10 = {"type":"FeatureCollection","name":"FAMMORALES_10","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"5"},"geometry":{"type":"MultiPoint","coordinates":[[-103.244191271318854,20.59903730902105]]}}]}
